@@ -66,7 +66,7 @@ A typical (representational) comparison looks like this:
 | DenseNet       | 0.886     | 0.875      | 0.954 | 0.913     | 0.959 |
 | EfficientNet   | 0.865     | 0.859    | 0.938   | 0.897     | 0.939 |
 | CNN + RNN      | 0.830   | 0.841    | 0.897 | 0.868   | 0.897 |
-| **Ensemble**   | **Highest** | **Highest** | **Highest** | **Highest** | **Highest** |
+| **Ensemble**   | **0.9054** | **0.9107** | **0.9410** | **0.9256** | **0.9603** |
 
 This demonstrates why combining multiple architectures yields the strongest performance.
 
