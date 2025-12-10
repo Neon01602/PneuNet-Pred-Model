@@ -81,7 +81,21 @@ The confusion matrix provides insight into:
 
 **Representation:**
 
-![Figure 1 — DenseNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/DenseNet/Figure_3.png?raw=true)
-![Figure 2 — EfficientNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/EfficientNet/cm_chest_xray.png?raw=true)
-![Figure 1 — DenseNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/cnn%2Brnn/Figure_3.png?raw=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/DenseNet/Figure_3.png?raw=true" alt="DenseNet Confusion Matrix" width="250"/><br>
+      <b>Figure 1 — DenseNet Confusion Matrix</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/EfficientNet/cm_chest_xray.png?raw=true" alt="EfficientNet Confusion Matrix" width="250"/><br>
+      <b>Figure 2 — EfficientNet Confusion Matrix</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/cnn%2Brnn/Figure_3.png?raw=true" alt="CNN+RNN Confusion Matrix" width="250"/><br>
+      <b>Figure 3 — CNN+RNN Confusion Matrix</b>
+    </td>
+  </tr>
+</table>
+
 
