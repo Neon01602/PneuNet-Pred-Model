@@ -82,4 +82,6 @@ The confusion matrix provides insight into:
 **Representation:**
 
 ![Figure 1 — DenseNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/DenseNet/Figure_3.png?raw=true)
+![Figure 2 — EfficientNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/EfficientNet/cm_chest_xray.png?raw=true)
+![Figure 1 — DenseNet Confusion Matrix](https://github.com/Neon01602/PneuNet-Pred-Model/blob/main/cnn+rnn/Figure_3.png?raw=true)
 
