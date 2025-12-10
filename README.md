@@ -99,3 +99,51 @@ The confusion matrix provides insight into:
 </table>
 
 
+The ensemble typically reduces:
+- FN (false negatives) — very important in healthcare  
+- FP (false positives) — improves trust and reduces unnecessary follow-ups  
+
+---
+
+## **📈 Performance Visuals**
+
+### **ROC Curve (Representational)**
+Shows how well the ensemble distinguishes pneumonia vs normal cases:
+
+- Higher AUC = better  
+- Ensemble AUC > individual models  
+- Smooth curves with strong separation  
+
+### **Precision-Recall Curve**
+Useful when classes are imbalanced.  
+The ensemble retains:
+- High precision  
+- High recall  
+- Better stability  
+
+### **Grad-CAM Examples**
+Heatmaps typically show:
+- Strong activation around lung opacities  
+- High attention around pneumonia-affected zones  
+- Transparent validation of model reasoning  
+
+These images help radiologists verify whether the AI is focusing on the right pathology.
+
+---
+
+## **🎯 Final Conclusion (Simple & Direct)**
+
+PneuNet is useful because it:
+- **Improves pneumonia detection accuracy** through ensembling  
+- **Provides explainability** that clinicians can trust  
+- **Reduces risk of missed cases** (high sensitivity)  
+- **Handles imbalanced medical data** effectively  
+- **Provides visual diagnostic support** with heatmaps  
+- **Offers a safer, more reliable AI assistant** for real-world radiology workflows  
+
+It is not just about prediction — it is about **making AI clinically aligned, interpretable, and dependable**.
+
+---
+
+
+
